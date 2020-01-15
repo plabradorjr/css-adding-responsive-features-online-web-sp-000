@@ -38,3 +38,11 @@
     width: auto;
   }
 }
+
+@media only screen (max-width: 800px) {
+
+  #navbar nav a {
+    font-size: : 0.8em;
+  }
+
+}
