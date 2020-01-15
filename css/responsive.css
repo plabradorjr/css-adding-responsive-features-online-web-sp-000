@@ -39,7 +39,7 @@
   }
 }
 
-@media only screen (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 
   .wrapper nav a {
     font-size: 0.2em;
